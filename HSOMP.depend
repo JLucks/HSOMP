@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1497028940 source:c:\users\jorge\documents\codeprojects\hsomp\hsomp.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<omp.h>
+
